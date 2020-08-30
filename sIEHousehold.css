@@ -1,0 +1,32 @@
+fieldset {
+    overflow: hidden
+  }
+  
+  .some-class {
+    float: left;
+    clear: none;
+  }
+  .slds-text-heading_medium{
+      color: darkslateblue;
+      font-family: sans-serif;
+  }
+
+  .slds-text-heading_small{
+      padding: 0px 0px 5px 0px; 
+  }
+  
+  label {
+    float: left;
+    clear: none;
+    display: block;
+    font-family: sans-serif;
+    padding: 7px 10px 0px 0px;
+  }
+  
+  .radiobutton{
+    float: left;
+    clear: none;
+    margin: 2px 5px  5px 2px;
+    width:24px;
+    height: 24px;
+  }
