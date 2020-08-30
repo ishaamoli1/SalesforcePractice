@@ -20,7 +20,7 @@ fieldset {
     clear: none;
     display: block;
     font-family: sans-serif;
-    padding: 7px 10px 0px 0px;
+    padding: 7px 10px 0px 1px;
   }
   
   .radiobutton{
